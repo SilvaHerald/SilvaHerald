@@ -21,7 +21,7 @@
  <br>
 <div id="follow" align="center">
   
-[![GitHub Followers](https://img.shields.io/github/followers/SilvaHerald?label=Follow&style=social)](https://github.com/SilvaHerald)[![GitHub Stars](https://img.shields.io/github/stars/SilvaHerald?style=social)](https://github.com/SilvaHerald)[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/SilvaHerald)
+![Profile Views](https://komarev.com/ghpvc/?username=SilvaHerald&label=Profile%20views&color=0e75b6&style=flat)[![GitHub Followers](https://img.shields.io/github/followers/SilvaHerald?label=Follow&style=social)](https://github.com/SilvaHerald)[![GitHub Stars](https://img.shields.io/github/stars/SilvaHerald?style=social)](https://github.com/SilvaHerald)[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/SilvaHerald)
 
 </div>
 
@@ -167,8 +167,6 @@ You’ll have to work with me long enough to discover those things for yourself.
 </span>
 
 ## 📊 GitHub Stats
-
-![Profile Views](https://komarev.com/ghpvc/?username=SilvaHerald&label=Profile%20views&color=0e75b6&style=flat)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SilvaHerald&show_icons=true&theme=default)
 
