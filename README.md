@@ -3,7 +3,7 @@
   <h3><b>CODING THIS ENTIRE  UNIVERSE</b></h3>
   <div id="badges">
   <a href="mailto:lam.tttech19@gmail.com">
-    <img src="https://cdn-icons-png.flaticon.com/128/15889/15889542.png"/>
+    <img src="https://img.shields.io/badge/Email-example@example.com-blue?logo=mail.ru" alt="Email">
   </a>  
   <a href="https://www.linkedin.com/in/tran-lam-522b5b246/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
