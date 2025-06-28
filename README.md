@@ -6,24 +6,25 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 <a href="https://www.facebook.com/lamtuantran1997/">
-    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
   <a href="https://twitter.com/tranlam_97/">
-    <img src="https://img.shields.io/badge/X-Profile-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/X-Profile-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="X Badge"/>
   </a>
 </div>
                                    If one day I leave this world, it will surely be by the will of nature 
 </div>
-
-
-
+[![GitHub Followers](https://img.shields.io/github/followers/SilvaHerald?label=Follow&style=social)](https://github.com/SilvaHerald)
+[![GitHub Stars](https://img.shields.io/github/stars/SilvaHerald?style=social)](https://github.com/SilvaHerald)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/SilvaHerald)
 ---
 
 ## 👋 About Me
 
 Hello to you, the one reading my profile.<br>
 I suppose you're looking for something special in me but I’m sorry to disappoint you, as I’m just as ordinary as anyone else. <br>
-However, if I take an honest look at myself, I do see a few traits that clearly set me apart from others. I won’t spell them out here, because that would feel like self-glorification. <br>
+However, if I take an honest look at myself, I do see a few traits that clearly set me apart from others.<br>
+I won’t spell them out here, because that would feel like self-glorification. <br>
 You’ll have to work with me long enough to discover those things for yourself.
 
 ## 📬 Contact
@@ -190,9 +191,8 @@ You’ll have to work with me long enough to discover those things for yourself.
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SilvaHerald&layout=compact)
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=SilvaHerald&theme=flat)
 
 ## 🏷️ Badges
 
-[![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=SilvaHerald&theme=flat)](https://github.com/SilvaHerald) [![GitHub Followers](https://img.shields.io/github/followers/SilvaHerald?label=Follow&style=social)](https://github.com/SilvaHerald) [![GitHub Stars](https://img.shields.io/github/stars/SilvaHerald?style=social)](https://github.com/SilvaHerald) [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/SilvaHerald) [![Twitter Follow](https://img.shields.io/twitter/follow/SilvaHerald?style=social)](https://twitter.com/SilvaHerald)
+[![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=SilvaHerald&theme=flat)](https://github.com/SilvaHerald)
 
