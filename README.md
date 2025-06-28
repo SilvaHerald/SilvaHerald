@@ -3,7 +3,7 @@
   <h3><b>CODING THIS ENTIRE  UNIVERSE</b></h3>
   <div id="badges">
   <a href="mailto:lam.tttech19@gmail.com">
-    <img src="https://img.shields.io/badge/Email-example@example.com-blue?logo=mail.ru" alt="Email">
+    <img src="https://img.shields.io/badge/Email-contact@example.com-red?logo=gmail" alt="Email">
   </a>  
   <a href="https://www.linkedin.com/in/tran-lam-522b5b246/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -18,10 +18,10 @@
                                    If one day I leave this world, it will surely be by the will of nature 
 </div>
 
-<div id="follow" align="center">
+<div id="follow" align="center" style="display:flex;">
   
 [![GitHub Followers](https://img.shields.io/github/followers/SilvaHerald?label=Follow&style=social)](https://github.com/SilvaHerald)
-  
+
 [![GitHub Stars](https://img.shields.io/github/stars/SilvaHerald?style=social)](https://github.com/SilvaHerald)
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/SilvaHerald)
