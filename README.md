@@ -31,7 +31,8 @@ Hello to you, the one reading my profile.<br>
 I suppose you're looking for something special in me but I’m sorry to disappoint you, as I’m just as ordinary as anyone else. <br>
 However, if I take an honest look at myself, I do see a few traits that clearly set me apart from others.<br>
 I won’t spell them out here, because that would feel like self-glorification. <br>
-You’ll have to work with me long enough to discover those things for yourself.
+You’ll have to work with me long enough to discover those things for yourself.<br>
+Anyway, thank you for visiting my profile. Wishing you a day full of energy and productivity!
 
 ## 🧠 Skills
 
