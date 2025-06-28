@@ -3,7 +3,7 @@
   <h3><b>CODING THIS ENTIRE  UNIVERSE</b></h3>
   <div id="badges">
   <a href="mailto:lam.tttech19@gmail.com">
-    <img src="https://img.shields.io/badge/Email-contact?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/Email-contact?style=for-the-badge&logo=gmail" alt="Email">
   </a>  
   <a href="https://www.linkedin.com/in/tran-lam-522b5b246/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -15,7 +15,9 @@
     <img src="https://img.shields.io/badge/X-Profile-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="X Badge"/>
   </a>
 </div>
+  <br>
                                    If one day I leave this world, it will surely be by the will of nature 
+  <br>
 </div>
 
 <div id="follow" align="center">
