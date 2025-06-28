@@ -2,6 +2,9 @@
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="200"/>
   <h3><b>CODING THIS ENTIRE  UNIVERSE</b></h3>
   <div id="badges">
+  <a href="mailto:lam.tttech19@gmail.com">
+    <img src="https://cdn-icons-png.flaticon.com/128/15889/15889542.png"/>
+  </a>  
   <a href="https://www.linkedin.com/in/tran-lam-522b5b246/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -14,9 +17,16 @@
 </div>
                                    If one day I leave this world, it will surely be by the will of nature 
 </div>
+
+<div id="follow" align="center">
+  
 [![GitHub Followers](https://img.shields.io/github/followers/SilvaHerald?label=Follow&style=social)](https://github.com/SilvaHerald)
+  
 [![GitHub Stars](https://img.shields.io/github/stars/SilvaHerald?style=social)](https://github.com/SilvaHerald)
+
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/SilvaHerald)
+
+</div>
 ---
 
 ## 👋 About Me
@@ -26,29 +36,6 @@ I suppose you're looking for something special in me but I’m sorry to disappoi
 However, if I take an honest look at myself, I do see a few traits that clearly set me apart from others.<br>
 I won’t spell them out here, because that would feel like self-glorification. <br>
 You’ll have to work with me long enough to discover those things for yourself.
-
-## 📬 Contact
-<div style="height:fit-content;display:flex;flex-wrap:wrap; gap: 10px;"><span style="display:inline-flex;align-items:center;gap:6px;height:20px;">
-      <img src="https://cdn-icons-png.flaticon.com/128/15889/15889542.png" width="20" height="20" />
-      <a href="mailto:lam.tttech19@gmail.com">lam.tttech19@gmail.com</a>
-    </span>
-
-<span style="display:inline-flex;align-items:center;gap:6px;height:20px;">
-      <img src="https://cdn-icons-png.flaticon.com/512/145/145807.png" width="20" height="20" />
-      <a href="https://www.linkedin.com/in/lam-tran-522b5b246/">LinkedIn</a>
-    </span>
-
-<span style="display:inline-flex;align-items:center;gap:6px;height:20px;">
-      <img src="https://cdn-icons-png.flaticon.com/128/2111/2111432.png" width="20" height="20" />
-      <a href="https://github.com/tranlam1997">GitHub</a>
-    </span>
-
-<span style="display:inline-flex;align-items:center;gap:6px;height:20px;">
-      <img src="https://cdn-icons-png.flaticon.com/128/5969/5969020.png" width="20" height="20" />
-      <a href="https://twitter.com/tranlam_97">X.com</a>
-    </span>
-
-</div>
 
 ## 🧠 Skills
 
