@@ -1,7 +1,8 @@
 ## 👋 About Me
 
-Hello to you, the one reading my profile. I suppose you're looking for something special in me—but I’m sorry to disappoint you, as I’m just as ordinary as anyone else.
-However, if I take an honest look at myself, I do see a few traits that clearly set me apart from others. I won’t spell them out here, because that would feel like self-glorification.
+Hello to you, the one reading my profile.<br>
+I suppose you're looking for something special in me but I’m sorry to disappoint you, as I’m just as ordinary as anyone else. <br>
+However, if I take an honest look at myself, I do see a few traits that clearly set me apart from others. I won’t spell them out here, because that would feel like self-glorification. <br>
 You’ll have to work with me long enough to discover those things for yourself.
 
 ## 📬 Contact
@@ -159,20 +160,6 @@ You’ll have to work with me long enough to discover those things for yourself.
   <img src="https://cdn.simpleicons.org/netlify" width="32" height="32" style="display:block;margin:0 auto;" />
   <span style="font-size:11px;display:block;margin-top:4px;">Netlify</span>
 </span>
-
-## 📁 Projects
-
-### Solam Center
-
-Solam Center UI
-
-🔗 [GitHub Repo](https://github.com/SilvaHerald/solam-center)
-
-### Solam Center Service
-
-Solam Center Logic
-
-🔗 [GitHub Repo](https://github.com/SilvaHerald/solam-center-service)
 
 ## 📊 GitHub Stats
 
