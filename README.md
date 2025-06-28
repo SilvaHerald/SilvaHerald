@@ -3,7 +3,7 @@
   <h3><b>CODING THIS ENTIRE  UNIVERSE</b></h3>
   <div id="badges">
   <a href="mailto:lam.tttech19@gmail.com">
-    <img src="https://img.shields.io/badge/Email-%23007EC6?style=for-the-badge&logo=protonmail" alt="Email">
+    <img src="https://img.shields.io/badge/Email-%23007EC6?style=for-the-badge&logo=gmail" alt="Email">
   </a>  
   <a href="https://www.linkedin.com/in/tran-lam-522b5b246/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -24,9 +24,8 @@
 [![GitHub Followers](https://img.shields.io/github/followers/SilvaHerald?label=Follow&style=social)](https://github.com/SilvaHerald)[![GitHub Stars](https://img.shields.io/github/stars/SilvaHerald?style=social)](https://github.com/SilvaHerald)[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/SilvaHerald)
 
 </div>
----
 
-## 👋 About Me
+## 👋 Introduction
 
 Hello to you, the one reading my profile.<br>
 I suppose you're looking for something special in me but I’m sorry to disappoint you, as I’m just as ordinary as anyone else. <br>
