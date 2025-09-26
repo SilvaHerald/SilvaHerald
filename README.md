@@ -27,12 +27,12 @@
 
 ## 👋 Introduction
 
-Hello to you, the one reading my profile.<br>
-I suppose you're looking for something special in me but I’m sorry to disappoint you, as I’m just as ordinary as anyone else. <br>
-However, if I take an honest look at myself, I do see a few traits that clearly set me apart from others.<br>
-I won’t spell them out here, because that would feel like self-glorification. <br>
-You’ll have to work with me long enough to discover those things for yourself.<br>
-Anyway, thank you for visiting my profile. Wishing you a day full of energy and productivity!
+Hello there 👋, thanks for stopping by my profile.
+
+You might be looking for something extraordinary here, but I’ll be honest—I’m just as ordinary as anyone else.
+Still, when I reflect on myself, I know there are a few traits that set me apart. I won’t list them here (self-praise never feels right), but if we get the chance to work together, I believe you’ll notice them over time.
+
+In any case, I appreciate your visit, and I hope your day is filled with focus, energy, and meaningful progress.
 
 ## 🧠 Skills
 
