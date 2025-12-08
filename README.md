@@ -169,9 +169,9 @@ In any case, I appreciate your visit, and I hope your day is filled with focus, 
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SilvaHerald&show_icons=true&theme=default)
+![GitHub Stats](https://github-readme-stats-ten-black-14.vercel.app/api?username=SilvaHerald&show_icons=true&theme=default)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SilvaHerald&layout=compact)
+![Top Languages](https://github-readme-stats-ten-black-14.vercel.app/api/top-langs/?username=SilvaHerald&layout=compact)
 
 
 ## 🏷️ Badges
