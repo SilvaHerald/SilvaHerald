@@ -176,5 +176,5 @@ In any case, I appreciate your visit, and I hope your day is filled with focus, 
 
 ## 🏷️ Badges
 
-[![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=SilvaHerald&theme=flat)](https://github.com/SilvaHerald)
+[![GitHub Profile Trophy](https://github-profile-trophy-zeta-ten.vercel.app/?username=SilvaHerald&theme=flat)](https://github.com/SilvaHerald)
 
