@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="200"/>
-  <h3><b>CODING THIS ENTIRE  UNIVERSE</b></h3>
+  <h3><b>UNIVERSE IN ME</b></h3>
   <div id="badges">
   <a href="mailto:lam.tttech19@gmail.com">
     <img src="https://img.shields.io/badge/Email-%23007EC6?style=for-the-badge&logo=gmail" alt="Email">
