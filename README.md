@@ -29,7 +29,7 @@
 
 Hello there 👋, thanks for stopping by my profile.
 
-You might be looking for something extraordinary here, but I’ll be honest—I’m just as ordinary as anyone else.
+You might be looking for something special here, but I’ll be honest—I’m just as ordinary as anyone else.
 Still, when I reflect on myself, I know there are a few traits that set me apart. I won’t list them here (self-praise never feels right), but if we get the chance to work together, I believe you’ll notice them over time.
 
 In any case, I appreciate your visit, and I hope your day is filled with focus, energy, and meaningful progress.
