@@ -90,7 +90,7 @@ Thanks for stopping by! I'm a passionate software engineer who loves building sc
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SilvaHerald&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats-indol-beta.vercel.app/?user=SilvaHerald&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 ---
