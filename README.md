@@ -151,12 +151,8 @@ In any case, I appreciate your visit, and I hope your day is filled with focus, 
   <span style="font-size:11px;display:block;margin-top:4px;">Google Cloud</span>
 </span>
 <span style="display:inline-block;text-align:center;width:60px;margin-right:10px;">
-  <img src="https://cdn.simpleicons.org/firebase" width="32" height="32" style="display:block;margin:0 auto;" />
-  <span style="font-size:11px;display:block;margin-top:4px;">Firebase</span>
-</span>
-<span style="display:inline-block;text-align:center;width:60px;margin-right:10px;">
-  <img src="https://cdn.simpleicons.org/heroku" width="32" height="32" style="display:block;margin:0 auto;" />
-  <span style="font-size:11px;display:block;margin-top:4px;">Heroku</span>
+  <img src="https://cdn.simpleicons.org/supabase" width="32" height="32" style="display:block;margin:0 auto;" />
+  <span style="font-size:11px;display:block;margin-top:4px;">Supabase</span>
 </span>
 <span style="display:inline-block;text-align:center;width:60px;margin-right:10px;">
   <img src="https://cdn.simpleicons.org/vercel" width="32" height="32" style="display:block;margin:0 auto;" />
