@@ -1,176 +1,124 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="200"/>
-  <h3><b>UNIVERSE IN ME</b></h3>
-  <div id="badges">
-  <a href="mailto:lam.tttech19@gmail.com">
-    <img src="https://img.shields.io/badge/Email-%23007EC6?style=for-the-badge&logo=gmail" alt="Email">
-  </a>  
-  <a href="https://www.linkedin.com/in/tran-lam-522b5b246/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-<a href="https://www.facebook.com/lamtuantran1997/">
-    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
-  </a>
-  <a href="https://twitter.com/tranlam_97/">
-    <img src="https://img.shields.io/badge/X-Profile-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="X Badge"/>
-  </a>
-</div>
-  <br>
-                                   If one day I leave this world, it will surely be by the will of nature
-</div>
- <br>
-<div id="follow" align="center">
+<div align="center">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="180" alt="Animated GIF"/>
   
-![Profile Views](https://komarev.com/ghpvc/?username=SilvaHerald&label=Profile%20views&color=0e75b6&style=flat)-[![GitHub Followers](https://img.shields.io/github/followers/SilvaHerald?label=Follow&style=social)](https://github.com/SilvaHerald)-[![GitHub Stars](https://img.shields.io/github/stars/SilvaHerald?style=social)](https://github.com/SilvaHerald)-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/SilvaHerald)
-
+  # 👋 Hey there, I'm Lam Tran
+  
+  ### Software Engineer | Full-Stack Developer
+  
+  <p>
+    <a href="mailto:lam.tran@lordoftrees.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    </a>
+    <a href="https://www.linkedin.com/in/tran-lam-522b5b246/">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="https://blog.lordoftrees.com">
+      <img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
+    </a>
+    <a href="https://twitter.com/tranlam_97/">
+      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+    </a>
+  </p>
+  
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=SilvaHerald&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile views"/>
+    <img src="https://img.shields.io/github/followers/SilvaHerald?label=Followers&style=flat-square&color=blue" alt="GitHub followers"/>
+  </p>
+  
+  <p><i>"If one day I leave this world, it will surely be by the will of nature"</i></p>
 </div>
 
-## 👋 Introduction
+---
 
-Hello there 👋, thanks for stopping by my profile.
+## 🚀 About Me
 
-You might be looking for something special here, but I’ll be honest—I’m just as ordinary as anyone else.
-Still, when I reflect on myself, I know there are a few traits that set me apart. I won’t list them here (self-praise never feels right), but if we get the chance to work together, I believe you’ll notice them over time.
+Thanks for stopping by! I'm a passionate software engineer who loves building scalable web applications and exploring new technologies. While I may seem ordinary at first glance, I believe actions speak louder than words. If we get the chance to collaborate, you'll discover what makes me unique.
 
-In any case, I appreciate your visit, and I hope your day is filled with focus, energy, and meaningful progress.
+- 💻 Full-stack developer with expertise in modern JavaScript frameworks
+- 🌱 Constantly learning and adapting to new technologies
+- 🎯 Focused on writing clean, maintainable code
+- 🤝 Open to collaboration and knowledge sharing
 
-## 🧠 Skills
+---
+
+## 🛠️ Tech Stack
 
 ### Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
-<span style="display:inline-block;text-align:center;width:60px;margin-right:10px;">
-  <img src="https://cdn.simpleicons.org/javascript" width="32" height="32" style="display:block;margin:0 auto;" />
-  <span style="font-size:11px;display:block;margin-top:4px;">JavaScript</span>
-</span>
-<span style="display:inline-block;text-align:center;width:60px;margin-right:10px;">
-  <img src="https://cdn.simpleicons.org/typescript" width="32" height="32" style="display:block;margin:0 auto;" />
-  <span style="font-size:11px;display:block;margin-top:4px;">TypeScript</span>
-</span>
+### Frontend Development
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=flat-square&logo=nuxt.js&logoColor=white)
 
-### Frontend
-
-<span style="display:inline-block;text-align:center;width:60px;margin-right:10px;">
-  <img src="https://cdn.simpleicons.org/react" width="32" height="32" style="display:block;margin:0 auto;" />
-  <span style="font-size:11px;display:block;margin-top:4px;">React</span>
-</span>
-<span style="display:inline-block;text-align:center;width:60px;margin-right:10px;">
-  <img src="https://cdn.simpleicons.org/vuedotjs" width="32" height="32" style="display:block;margin:0 auto;" />
-  <span style="font-size:11px;display:block;margin-top:4px;">Vue.js</span>
-</span>
-<span style="display:inline-block;text-align:center;width:60px;margin-right:10px;">
-  <img src="https://cdn.simpleicons.org/nextdotjs" width="32" height="32" style="display:block;margin:0 auto;" />
-  <span style="font-size:11px;display:block;margin-top:4px;">Next.js</span>
-</span>
-<span style="display:inline-block;text-align:center;width:60px;margin-right:10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nuxtjs/nuxtjs-original.svg" width="32" height="32" style="display:block;margin:0 auto;" />
-  <span style="font-size:11px;display:block;margin-top:4px;">Nuxt.js</span>
-</span>
-
-### Backend
-
-<span style="display:inline-block;text-align:center;width:60px;margin-right:10px;">
-  <img src="https://cdn.simpleicons.org/nodedotjs" width="32" height="32" style="display:block;margin:0 auto;" />
-  <span style="font-size:11px;display:block;margin-top:4px;">Node.js</span>
-</span>
-<span style="display:inline-block;text-align:center;width:60px;margin-right:10px;">
-  <img src="https://cdn.simpleicons.org/express" width="32" height="32" style="display:block;margin:0 auto;" />
-  <span style="font-size:11px;display:block;margin-top:4px;">Express</span>
-</span>
-<span style="display:inline-block;text-align:center;width:60px;margin-right:10px;">
-  <img src="https://cdn.simpleicons.org/nestjs" width="32" height="32" style="display:block;margin:0 auto;" />
-  <span style="font-size:11px;display:block;margin-top:4px;">NestJS</span>
-</span>
+### Backend Development
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 
 ### Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
 
-<span style="display:inline-block;text-align:center;width:60px;margin-right:10px;">
-  <img src="https://cdn.simpleicons.org/mongodb" width="32" height="32" style="display:block;margin:0 auto;" />
-  <span style="font-size:11px;display:block;margin-top:4px;">MongoDB</span>
-</span>
-<span style="display:inline-block;text-align:center;width:60px;margin-right:10px;">
-  <img src="https://cdn.simpleicons.org/postgresql" width="32" height="32" style="display:block;margin:0 auto;" />
-  <span style="font-size:11px;display:block;margin-top:4px;">PostgreSQL</span>
-</span>
-<span style="display:inline-block;text-align:center;width:60px;margin-right:10px;">
-  <img src="https://cdn.simpleicons.org/mysql" width="32" height="32" style="display:block;margin:0 auto;" />
-  <span style="font-size:11px;display:block;margin-top:4px;">MySQL</span>
-</span>
-<span style="display:inline-block;text-align:center;width:60px;margin-right:10px;">
-  <img src="https://cdn.simpleicons.org/sqlite" width="32" height="32" style="display:block;margin:0 auto;" />
-  <span style="font-size:11px;display:block;margin-top:4px;">SQLite</span>
-</span>
-<span style="display:inline-block;text-align:center;width:60px;margin-right:10px;">
-  <img src="https://cdn.simpleicons.org/redis" width="32" height="32" style="display:block;margin:0 auto;" />
-  <span style="font-size:11px;display:block;margin-top:4px;">Redis</span>
-</span>
-<span style="display:inline-block;text-align:center;width:60px;margin-right:10px;">
-  <img src="https://cdn.simpleicons.org/mariadb" width="32" height="32" style="display:block;margin:0 auto;" />
-  <span style="font-size:11px;display:block;margin-top:4px;">MariaDB</span>
-</span>
+### DevOps & Cloud
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 
-### DevOps & Tools
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=flat-square&logo=gitlab&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 
-<span style="display:inline-block;text-align:center;width:60px;margin-right:10px;">
-  <img src="https://cdn.simpleicons.org/docker" width="32" height="32" style="display:block;margin:0 auto;" />
-  <span style="font-size:11px;display:block;margin-top:4px;">Docker</span>
-</span>
-<span style="display:inline-block;text-align:center;width:60px;margin-right:10px;">
-  <img src="https://cdn.simpleicons.org/kubernetes" width="32" height="32" style="display:block;margin:0 auto;" />
-  <span style="font-size:11px;display:block;margin-top:4px;">Kubernetes</span>
-</span>
-<span style="display:inline-block;text-align:center;width:60px;margin-right:10px;">
-  <img src="https://cdn.simpleicons.org/git" width="32" height="32" style="display:block;margin:0 auto;" />
-  <span style="font-size:11px;display:block;margin-top:4px;">Git</span>
-</span>
-<span style="display:inline-block;text-align:center;width:60px;margin-right:10px;">
-  <img src="https://cdn.simpleicons.org/github" width="32" height="32" style="display:block;margin:0 auto;" />
-  <span style="font-size:11px;display:block;margin-top:4px;">GitHub</span>
-</span>
-<span style="display:inline-block;text-align:center;width:60px;margin-right:10px;">
-  <img src="https://cdn.simpleicons.org/gitlab" width="32" height="32" style="display:block;margin:0 auto;" />
-  <span style="font-size:11px;display:block;margin-top:4px;">GitLab</span>
-</span>
-<span style="display:inline-block;text-align:center;width:60px;margin-right:10px;">
-  <img src="https://cdn.simpleicons.org/bitbucket" width="32" height="32" style="display:block;margin:0 auto;" />
-  <span style="font-size:11px;display:block;margin-top:4px;">Bitbucket</span>
-</span>
-<span style="display:inline-block;text-align:center;width:60px;margin-right:10px;">
-  <img src="https://cdn.simpleicons.org/jenkins" width="32" height="32" style="display:block;margin:0 auto;" />
-  <span style="font-size:11px;display:block;margin-top:4px;">Jenkins</span>
-</span>
-<span style="display:inline-block;text-align:center;width:60px;margin-right:10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="32" height="32" style="display:block;margin:0 auto;" />
-  <span style="font-size:11px;display:block;margin-top:4px;">AWS</span>
-</span>
-<span style="display:inline-block;text-align:center;width:60px;margin-right:10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" width="32" height="32" style="display:block;margin:0 auto;" />
-  <span style="font-size:11px;display:block;margin-top:4px;">Azure</span>
-</span>
-<span style="display:inline-block;text-align:center;width:60px;margin-right:10px;">
-  <img src="https://cdn.simpleicons.org/googlecloud" width="32" height="32" style="display:block;margin:0 auto;" />
-  <span style="font-size:11px;display:block;margin-top:4px;">Google Cloud</span>
-</span>
-<span style="display:inline-block;text-align:center;width:60px;margin-right:10px;">
-  <img src="https://cdn.simpleicons.org/supabase" width="32" height="32" style="display:block;margin:0 auto;" />
-  <span style="font-size:11px;display:block;margin-top:4px;">Supabase</span>
-</span>
-<span style="display:inline-block;text-align:center;width:60px;margin-right:10px;">
-  <img src="https://cdn.simpleicons.org/vercel" width="32" height="32" style="display:block;margin:0 auto;" />
-  <span style="font-size:11px;display:block;margin-top:4px;">Vercel</span>
-</span>
-<span style="display:inline-block;text-align:center;width:60px;margin-right:10px;">
-  <img src="https://cdn.simpleicons.org/netlify" width="32" height="32" style="display:block;margin:0 auto;" />
-  <span style="font-size:11px;display:block;margin-top:4px;">Netlify</span>
-</span>
+---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats-ten-black-14.vercel.app/api?username=SilvaHerald&show_icons=true&theme=default)
+<div align="center">
+  <img height="180em" src="https://github-readme-stats-ten-black-14.vercel.app/api?username=SilvaHerald&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats-ten-black-14.vercel.app/api/top-langs/?username=SilvaHerald&layout=compact&theme=tokyonight&hide_border=true"/>
+</div>
 
-![Top Languages](https://github-readme-stats-ten-black-14.vercel.app/api/top-langs/?username=SilvaHerald&layout=compact)
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SilvaHerald&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</div>
 
+---
 
-## 🏷️ Badges
+## 🏆 GitHub Trophies
 
-[![GitHub Profile Trophy](https://github-profile-trophy-tawny.vercel.app/?username=SilvaHerald)](https://github.com/SilvaHerald)
+<div align="center">
+  <img src="https://github-profile-trophy-tawny.vercel.app/?username=SilvaHerald&theme=darkhub&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
+</div>
 
+---
+
+## 📫 Get In Touch
+
+I'm always open to interesting conversations and collaboration opportunities. Feel free to reach out!
+
+<div align="center">
+  <a href="mailto:lam.tran@lordoftrees.com">
+    <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://blog.lordoftrees.com">
+    <img src="https://img.shields.io/badge/Visit_My_Blog-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Blog"/>
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <i>Thanks for visiting! Have a focused and productive day! 🚀</i>
+</div>
