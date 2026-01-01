@@ -1,5 +1,6 @@
 <div align="center">
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="180" alt="Animated GIF"/>
+  <h3><b>UNIVERSE IN ME</b></h3>
   
   ### Software Engineer | Full-Stack Developer
   
