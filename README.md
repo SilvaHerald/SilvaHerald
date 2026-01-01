@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="180" alt="Animated GIF"/>
   
-  # 👋 Hey there, I'm Lam Tran
+  # Hey there, I'm Lam Tran
   
   ### Software Engineer | Full-Stack Developer
   
@@ -16,7 +16,7 @@
       <img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
     </a>
     <a href="https://twitter.com/tranlam_97/">
-      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+      <img src="https://img.shields.io/badge/Facebook-0866FF?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
     </a>
   </p>
   
