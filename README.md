@@ -12,9 +12,9 @@
     <a href="https://www.linkedin.com/in/tran-lam-522b5b246/">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
-    <a href="https://blog.lordoftrees.com">
+    <!-- <a href="https://blog.lordoftrees.com">
       <img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
-    </a>
+    </a> -->
     <a href="https://twitter.com/tranlam_97/">
       <img src="https://img.shields.io/badge/Facebook-0866FF?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
     </a>
