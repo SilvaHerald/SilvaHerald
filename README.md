@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="180" alt="Animated GIF"/>
   
-  # Hey there, I'm Lam Tran
+  # 👋🏼 Hey there, I'm Lam Tran
   
   ### Software Engineer | Full-Stack Developer
   
@@ -120,5 +120,5 @@ I'm always open to interesting conversations and collaboration opportunities. Fe
 ---
 
 <div align="center">
-  <i>Thanks for visiting! Have a focused and productive day! 🚀</i>
+  <i>Thanks for visiting! Have a focused and productive day! 🙏</i>
 </div>
