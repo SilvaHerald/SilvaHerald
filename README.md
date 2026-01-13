@@ -24,7 +24,7 @@
     <img src="https://img.shields.io/github/followers/SilvaHerald?label=Followers&style=flat-square&color=blue" alt="GitHub followers"/>
   </p>
   
-  <p><i>"If one day I leave this world, it will surely be by the will of nature"</i></p>
+  <p><i>"We are not defeated by the challenges outside, but by the weakness within us"</i></p>
 </div>
 
 ---
