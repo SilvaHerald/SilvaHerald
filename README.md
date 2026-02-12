@@ -90,8 +90,25 @@ Thanks for stopping by! I'm a passionate software engineer who loves building sc
 </div>
 
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/SilvaHerald/github-readme-streak-stats/output/github-streak-stats-dark.svg" alt="GitHub Streak"/>
+<div style="display: flex; justify-content: center; align-items: center;">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="
+        https://raw.githubusercontent.com/SilvaHerald/github-readme-streak-stats/output/github-streak-stats-dark.svg
+      "
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="
+        https://raw.githubusercontent.com/SilvaHerald/github-readme-streak-stats/output/github-streak-stats-light.svg
+      "
+    />
+    <img
+      alt="github-streak-stats"
+      src="https://raw.githubusercontent.com/SilvaHerald/github-readme-streak-stats/output/github-streak-stats-dark.svg"
+    />
+  </picture>
 </div>
 
 
