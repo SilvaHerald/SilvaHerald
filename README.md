@@ -89,9 +89,9 @@ Thanks for stopping by! I'm a passionate software engineer who loves building sc
   <img height="180em" src="https://github-readme-stats-ten-black-14.vercel.app/api/top-langs/?username=SilvaHerald&layout=compact&theme=tokyonight&hide_border=true"/>
 </div>
 
-<div align="center">
-  [![GitHub Streak](https://github-readme-streak-stats-indol-beta.vercel.app?user=SilvaHerald&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-</div>
+
+[![GitHub Streak](https://github-readme-streak-stats-indol-beta.vercel.app?user=SilvaHerald&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
 
 ---
 
