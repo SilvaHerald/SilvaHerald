@@ -90,7 +90,7 @@ Thanks for stopping by! I'm a passionate software engineer who loves building sc
 </div>
 
 
-[![GitHub Streak](https://github-readme-streak-stats-indol-beta.vercel.app?user=SilvaHerald&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-indol-beta.vercel.app?user=SilvaHerald&theme=tokyonight)](https://git.io/streak-stats)
 
 
 ---
