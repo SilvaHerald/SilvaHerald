@@ -93,7 +93,7 @@ Thanks for stopping by! I'm a passionate software engineer who loves building sc
 <div align="center">
     <img
       alt="github-streak-stats"
-      src="https://raw.githubusercontent.com/SilvaHerald/github-readme-streak-stats/output/github-streak-stats-dark.svg"
+      src="https://github-readme-streak-stats.herokuapp.com/?user=SilvaHerald&theme=tokyonight&hide_border=true"
     />
 </div>
 
