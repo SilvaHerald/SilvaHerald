@@ -1,5 +1,5 @@
 <div align="center">
-  ![Uploading typing_headup_loop.gif…]()
+  <img width="1254" height="1254" alt="typing_headup_loop" src="https://github.com/user-attachments/assets/50ee6a07-4f8a-4f44-ba57-68ba9a1eeb76" />
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="180" alt="Animated GIF"/>
   <h3><b>UNIVERSE IN ME</b></h3>
   
