@@ -1,5 +1,4 @@
 <div align="center">
-  <img width="1254" height="1254" alt="typing_headup_loop" src="https://github.com/user-attachments/assets/50ee6a07-4f8a-4f44-ba57-68ba9a1eeb76" />
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExejA5amJzeWFuMW9rODdkandhMWh2ZHhxNnMzMjZiZXM0ZXlncmxrcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rnj7oqt5FwgnqNheN2/giphy.gif" alt="Animated GIF"/>
   <h3><b>UNIVERSE IN ME</b></h3>
   
