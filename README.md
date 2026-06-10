@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExejA5amJzeWFuMW9rODdkandhMWh2ZHhxNnMzMjZiZXM0ZXlncmxrcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rnj7oqt5FwgnqNheN2/giphy.gif" alt="Animated GIF"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHd1d3ZkdjEzZDBsdTE2MnB6dm9keGY3ZXBzc3M0eWkycGJ0bm93OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BAzgB3Hmissr7oFghB/giphy.gif" alt="Animated GIF"/>
   <h3><b>UNIVERSE IN ME</b></h3>
   
   ### Software Engineer | Full-Stack Developer
